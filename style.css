@@ -1,1 +1,26 @@
-body 
+body{
+ text-align: center;
+ background: #008b8b;
+margin: 0 auto;
+width: 1000px;
+}
+
+b{
+	color: red;
+}
+
+a{
+	color: #87cefa;
+}
+
+div{
+	margin: 40px;
+	background: white;
+	
+}
+
+
+
+
+
+
